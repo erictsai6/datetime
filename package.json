@@ -1,0 +1,28 @@
+{
+  "name": "datetime",
+  "version": "1.0.0",
+  "description": "Datetime library that will also handle the timezone transitions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erictsai6/datetime.git"
+  },
+  "keywords": [
+    "datetime",
+    "timezone",
+    "time",
+    "javascript"
+  ],
+  "author": "Eric Tsai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erictsai6/datetime/issues"
+  },
+  "homepage": "https://github.com/erictsai6/datetime#readme"
+}
